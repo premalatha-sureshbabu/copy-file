@@ -20,7 +20,8 @@ End the program.
 
 
 ## PROGRAM:
-
+#program developed by:premalatha.s
+#registration number:22009393 
 with open('sample.txt','r') as file1:
     with open ('san1.txt','a') as file2:
         for line in file1:
