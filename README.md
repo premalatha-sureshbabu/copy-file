@@ -20,23 +20,22 @@ End the program.
 
 
 ## PROGRAM:
-#program developed by:premalatha.s
+```
 
-#registration number:22009393 
-
-with open('sample.txt','r') as file1:
-
-    with open ('san1.txt','a') as file2:
-    
-        for line in file1:
+program developed by:premalatha.s
+registration number:22009393 
+with open("file.txt") as fp:
+    with open("fire2.txt","w") as fp1:
+        line= fp.read()
+        fp1.write(line)
         
-            file2.write(line)
-
+ ```     
+       
+        
 
 ### OUTPUT:
-![copyfile](https://user-images.githubusercontent.com/120620842/214024001-d3f83615-bc66-42f6-80ff-2762b272cbc9.jpg)
-![copyfile2](https://user-images.githubusercontent.com/120620842/214024046-14e2f547-d7ce-4406-9991-12228d7ebdec.jpg)
 
+![Screenshot (71)](https://user-images.githubusercontent.com/120620842/214801508-e14ed0eb-c5e4-4e37-a4ea-8dac8e898df7.png)
 
 
 ## RESULT:
