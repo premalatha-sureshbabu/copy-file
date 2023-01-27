@@ -36,6 +36,7 @@ with open("file.txt") as fp:
 ### OUTPUT:
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/120620842/214801508-e14ed0eb-c5e4-4e37-a4ea-8dac8e898df7.png)
+![image](https://user-images.githubusercontent.com/120620842/215115758-6e81ecf2-1d69-414a-b689-a3fd0820af1e.png)
 
 
 ## RESULT:
